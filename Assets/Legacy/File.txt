@@ -1,0 +1,9 @@
+ShowBeat>12>D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Mouse Click Fast.wav,D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Beat.bmp
+ShowBeat>10>D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Mouse Click Fast.wav,D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Beat.bmp
+ShowBeat>16,75>D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Mouse Click Fast.wav,D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Beat.bmp
+ShowBeat>5>D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Mouse Click Fast.wav,D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Beat.bmp
+ShowBeat>6>D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Mouse Click Fast.wav,D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Beat.bmp
+PlayVideo>5>D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\jellyfish-25-mbps-hd-hevc.m4v,5,10,False
+ShowBeat>7>D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Mouse Click Fast.wav,D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Beat.bmp
+PlayVideo>12>D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\lion-sample.m4v,5,10,True
+ShowImage>1>D:\Unity\Projects\VideoAudioEditor\Assets\ExampleAssets\Beat.bmp,10
